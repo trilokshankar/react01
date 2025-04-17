@@ -1,0 +1,25 @@
+.header {
+  background-color: #282c34;
+  padding: 1rem 2rem;
+  color: white;
+  text-align: center;
+}
+
+.header-title {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.nav {
+  margin-top: 0.5rem;
+}
+
+.nav-link {
+  margin: 0 1rem;
+  color: #61dafb;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
